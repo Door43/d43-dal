@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dal:home|Door43 (dal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dal|d43-dal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dal/archive/master.zip|d43-dal.zip]]
+
+**Recent Changes**
+{{changes>ns = dal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dal|Ethnologue data]]
+
